@@ -1,0 +1,352 @@
+[
+  {
+    "birth_date": "1991-01-15",
+    "first_name": "Elbert",
+    "last_name": "Medhurst",
+    "gender": "M",
+    "hire_date": "1974-10-04"
+  },
+  {
+    "birth_date": "2011-03-10",
+    "first_name": "Arvilla",
+    "last_name": "Weber",
+    "gender": "F",
+    "hire_date": "1995-03-31"
+  },
+  {
+    "birth_date": "1991-03-05",
+    "first_name": "Alena",
+    "last_name": "Cummerata",
+    "gender": "M",
+    "hire_date": "1997-04-06"
+  },
+  {
+    "birth_date": "1992-08-26",
+    "first_name": "Mya",
+    "last_name": "Jones",
+    "gender": "M",
+    "hire_date": "1995-12-18"
+  },
+  {
+    "birth_date": "1987-06-25",
+    "first_name": "Delia",
+    "last_name": "Heaney",
+    "gender": "M",
+    "hire_date": "2008-03-27"
+  },
+  {
+    "birth_date": "2002-12-28",
+    "first_name": "Deondre",
+    "last_name": "Upton",
+    "gender": "M",
+    "hire_date": "1977-02-08"
+  },
+  {
+    "birth_date": "1971-10-12",
+    "first_name": "Myrtie",
+    "last_name": "Gleichner",
+    "gender": "F",
+    "hire_date": "2009-12-26"
+  },
+  {
+    "birth_date": "1982-12-16",
+    "first_name": "Elinore",
+    "last_name": "West",
+    "gender": "M",
+    "hire_date": "2005-10-23"
+  },
+  {
+    "birth_date": "2006-04-04",
+    "first_name": "Addie",
+    "last_name": "Sporer",
+    "gender": "F",
+    "hire_date": "1988-12-26"
+  },
+  {
+    "birth_date": "1992-08-15",
+    "first_name": "Zola",
+    "last_name": "Konopelski",
+    "gender": "M",
+    "hire_date": "1981-06-21"
+  },
+  {
+    "birth_date": "2016-02-05",
+    "first_name": "Carolanne",
+    "last_name": "Collins",
+    "gender": "F",
+    "hire_date": "1985-09-08"
+  },
+  {
+    "birth_date": "2004-03-01",
+    "first_name": "Jonathon",
+    "last_name": "Walsh",
+    "gender": "F",
+    "hire_date": "1993-01-11"
+  },
+  {
+    "birth_date": "1979-04-04",
+    "first_name": "Ruthe",
+    "last_name": "Klocko",
+    "gender": "F",
+    "hire_date": "2001-07-24"
+  },
+  {
+    "birth_date": "1992-02-23",
+    "first_name": "Nolan",
+    "last_name": "Runolfsson",
+    "gender": "M",
+    "hire_date": "1990-09-22"
+  },
+  {
+    "birth_date": "1972-09-26",
+    "first_name": "Camylle",
+    "last_name": "Huels",
+    "gender": "F",
+    "hire_date": "1993-07-31"
+  },
+  {
+    "birth_date": "1996-10-01",
+    "first_name": "Tremaine",
+    "last_name": "Gislason",
+    "gender": "M",
+    "hire_date": "1972-12-22"
+  },
+  {
+    "birth_date": "1982-02-25",
+    "first_name": "Eleazar",
+    "last_name": "Nicolas",
+    "gender": "F",
+    "hire_date": "2001-11-29"
+  },
+  {
+    "birth_date": "2018-10-10",
+    "first_name": "Gussie",
+    "last_name": "Gleichner",
+    "gender": "M",
+    "hire_date": "1994-05-08"
+  },
+  {
+    "birth_date": "1981-09-29",
+    "first_name": "Miguel",
+    "last_name": "Morar",
+    "gender": "F",
+    "hire_date": "2004-08-29"
+  },
+  {
+    "birth_date": "2019-04-18",
+    "first_name": "Eldridge",
+    "last_name": "Crona",
+    "gender": "F",
+    "hire_date": "1982-02-16"
+  },
+  {
+    "birth_date": "2002-05-05",
+    "first_name": "Layla",
+    "last_name": "Bechtelar",
+    "gender": "F",
+    "hire_date": "1975-01-31"
+  },
+  {
+    "birth_date": "1971-12-11",
+    "first_name": "Verona",
+    "last_name": "Towne",
+    "gender": "F",
+    "hire_date": "1992-09-30"
+  },
+  {
+    "birth_date": "1989-06-29",
+    "first_name": "Levi",
+    "last_name": "Howell",
+    "gender": "F",
+    "hire_date": "1992-01-31"
+  },
+  {
+    "birth_date": "2009-01-13",
+    "first_name": "Candelario",
+    "last_name": "Torphy",
+    "gender": "F",
+    "hire_date": "1984-08-06"
+  },
+  {
+    "birth_date": "1983-05-30",
+    "first_name": "Erica",
+    "last_name": "Reynolds",
+    "gender": "M",
+    "hire_date": "2011-11-07"
+  },
+  {
+    "birth_date": "2003-12-29",
+    "first_name": "Elvie",
+    "last_name": "Predovic",
+    "gender": "M",
+    "hire_date": "1988-06-16"
+  },
+  {
+    "birth_date": "2004-06-15",
+    "first_name": "Brenda",
+    "last_name": "Roberts",
+    "gender": "M",
+    "hire_date": "2014-11-19"
+  },
+  {
+    "birth_date": "2004-03-21",
+    "first_name": "Georgianna",
+    "last_name": "O'Hara",
+    "gender": "F",
+    "hire_date": "1980-07-30"
+  },
+  {
+    "birth_date": "2009-11-26",
+    "first_name": "Miller",
+    "last_name": "Ebert",
+    "gender": "M",
+    "hire_date": "1983-09-07"
+  },
+  {
+    "birth_date": "1976-05-20",
+    "first_name": "Imani",
+    "last_name": "Grimes",
+    "gender": "F",
+    "hire_date": "2016-07-24"
+  },
+  {
+    "birth_date": "1970-04-13",
+    "first_name": "Ivah",
+    "last_name": "Beatty",
+    "gender": "F",
+    "hire_date": "1993-01-26"
+  },
+  {
+    "birth_date": "1973-04-15",
+    "first_name": "Marielle",
+    "last_name": "Carroll",
+    "gender": "F",
+    "hire_date": "2000-01-07"
+  },
+  {
+    "birth_date": "2016-04-14",
+    "first_name": "Imogene",
+    "last_name": "Fritsch",
+    "gender": "F",
+    "hire_date": "1985-12-01"
+  },
+  {
+    "birth_date": "2016-03-01",
+    "first_name": "Jerald",
+    "last_name": "Macejkovic",
+    "gender": "M",
+    "hire_date": "1977-06-04"
+  },
+  {
+    "birth_date": "1972-05-09",
+    "first_name": "Newton",
+    "last_name": "Bergstrom",
+    "gender": "M",
+    "hire_date": "1999-04-11"
+  },
+  {
+    "birth_date": "1986-08-18",
+    "first_name": "Nils",
+    "last_name": "Roberts",
+    "gender": "M",
+    "hire_date": "1985-07-08"
+  },
+  {
+    "birth_date": "2016-10-07",
+    "first_name": "Beulah",
+    "last_name": "Davis",
+    "gender": "M",
+    "hire_date": "1977-11-24"
+  },
+  {
+    "birth_date": "1974-02-26",
+    "first_name": "Linwood",
+    "last_name": "Prohaska",
+    "gender": "M",
+    "hire_date": "1971-03-25"
+  },
+  {
+    "birth_date": "1985-02-26",
+    "first_name": "Domenico",
+    "last_name": "Hartmann",
+    "gender": "M",
+    "hire_date": "2018-04-19"
+  },
+  {
+    "birth_date": "2006-03-09",
+    "first_name": "Barrett",
+    "last_name": "Stiedemann",
+    "gender": "M",
+    "hire_date": "2006-05-04"
+  },
+  {
+    "birth_date": "1998-10-19",
+    "first_name": "Albert",
+    "last_name": "Blanda",
+    "gender": "F",
+    "hire_date": "2006-07-31"
+  },
+  {
+    "birth_date": "1988-03-24",
+    "first_name": "Ubaldo",
+    "last_name": "Roob",
+    "gender": "F",
+    "hire_date": "1992-06-11"
+  },
+  {
+    "birth_date": "2012-10-14",
+    "first_name": "Alison",
+    "last_name": "Gibson",
+    "gender": "F",
+    "hire_date": "1978-03-28"
+  },
+  {
+    "birth_date": "2012-11-04",
+    "first_name": "Erik",
+    "last_name": "Frami",
+    "gender": "F",
+    "hire_date": "1988-01-03"
+  },
+  {
+    "birth_date": "2007-04-22",
+    "first_name": "Halie",
+    "last_name": "Doyle",
+    "gender": "M",
+    "hire_date": "2011-11-05"
+  },
+  {
+    "birth_date": "1971-09-07",
+    "first_name": "Ona",
+    "last_name": "Gulgowski",
+    "gender": "M",
+    "hire_date": "2017-09-02"
+  },
+  {
+    "birth_date": "2009-12-29",
+    "first_name": "Kaia",
+    "last_name": "O'Reilly",
+    "gender": "M",
+    "hire_date": "2011-08-23"
+  },
+  {
+    "birth_date": "1988-12-02",
+    "first_name": "Meta",
+    "last_name": "Stokes",
+    "gender": "F",
+    "hire_date": "1993-10-08"
+  },
+  {
+    "birth_date": "1984-11-19",
+    "first_name": "Hilda",
+    "last_name": "Senger",
+    "gender": "F",
+    "hire_date": "2005-04-29"
+  },
+  {
+    "birth_date": "1994-10-13",
+    "first_name": "Shanel",
+    "last_name": "Kuhn",
+    "gender": "F",
+    "hire_date": "1970-08-15"
+  }
+]
