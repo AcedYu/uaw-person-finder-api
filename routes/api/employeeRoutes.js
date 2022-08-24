@@ -3,7 +3,7 @@ const { Employee } = require("../../models");
 
 router.get("/", async (req, res) => {
   try {
-    const employeeData = await User.findAll({});
+    const employeeData = await Employee.findAll({});
     res.status(200).json(employeeData);
   } catch (err) {
     res.status(500).json(err);
@@ -12,7 +12,7 @@ router.get("/", async (req, res) => {
 
 router.get("/:lastname", async (req, res) => {
   try {
-    const userData = await User.findAll({
+    const userData = await Employee.findAll({
       where: {
         last_name: req.params.lastname,
       },
@@ -22,3 +22,5 @@ router.get("/:lastname", async (req, res) => {
     res.status(500).json(err);
   }
 });
+
+module.exports = router;
